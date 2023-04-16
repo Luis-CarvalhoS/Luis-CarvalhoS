@@ -29,6 +29,6 @@ Currently studying Python (and a bit of ruby...), as well as its utilities in th
   <img align="center" alt="Ruby on Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
 </div>
 
-
+![snake animation](Luis-CarvalhoS)
 
           
