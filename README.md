@@ -15,7 +15,7 @@ Currently studying Python (and a bit of ruby...), as well as its utilities in th
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-CarvalhoS&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-CarvalhoS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
