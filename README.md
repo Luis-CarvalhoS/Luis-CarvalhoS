@@ -2,9 +2,14 @@
 
 **`FullStack Dev`**
 
-Improving as a software engineer
+Improving as a software engineer.
+<br>
+<br>
 
-
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipecs)
+<br>
+<br>
 ### 🧰 Languages and Tools
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -16,9 +21,12 @@ Improving as a software engineer
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+<br>
+<br>
 
 
 ### 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Luis-CarvalhoS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=Luis-CarvalhoS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-CarvalhoS&layout=compact&langs_count=7&theme=tokyonight)<br/>
