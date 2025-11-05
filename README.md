@@ -42,13 +42,5 @@ Improving as a software engineer.
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Luis-CarvalhoS&theme=tokyonight&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
   </tr>
 </table>
