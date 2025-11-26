@@ -45,10 +45,10 @@ Improving as a software engineer.
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
+<td colspan="2">
       <img
         align="left"
+        width="100%"
         src="https://github-readme-streak-stats.herokuapp.com/?user=LuisCarvalhoS&theme=highcontrast&hide_border=false"
         alt="Github Stats"
       />
