@@ -28,23 +28,20 @@ Improving as a software engineer.
 <br>
 <br>
 
-
-
 ### ⚙️ GitHub Analytics
-
 <table>
   <tr>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=LuisCarvalhoS&theme=highcontrast&hide_border=false&include_all_commits=true"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisCarvalhoS&theme=highcontrast"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarvalhoS&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisCarvalhoS&theme=highcontrast"
         alt="Github Stats"
       />
     </td>
@@ -59,4 +56,11 @@ Improving as a software engineer.
   </tr>
 </table>
 
+<br>
+
+<br>
+
+
+
+![profile view](https://komarev.com/ghpvc/?username=LuisCarvalhoS&color=9370DB&style=flat)
 
