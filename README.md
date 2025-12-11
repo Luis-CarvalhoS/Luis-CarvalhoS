@@ -27,7 +27,6 @@ Improving as a software engineer.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-
 <br>
 <br>
 
@@ -48,12 +47,9 @@ Improving as a software engineer.
         alt="Github Stats"
       />
     </td>
-<td colspan="2">
+    <td>
       <img
-        align="left"
-        width="100%"
         src="https://github-readme-streak-stats.herokuapp.com/?user=LuisCarvalhoS&theme=highcontrast&hide_border=false"
-        alt="Github Stats"
       />
     </td>
   </tr>
