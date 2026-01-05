@@ -36,7 +36,7 @@ Improving as a software engineer.
     <td>
       <img
         align="left"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisCarvalhoS&theme=highcontrast"
+        src="![](https://github-readme-stats.vercel.app/api?username=LuisCarvalhoS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>"
         alt="Github Stats"
       />
     </td>
