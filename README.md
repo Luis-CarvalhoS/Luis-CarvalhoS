@@ -36,20 +36,8 @@ Improving as a software engineer.
     <td>
       <img
         align="left"
-        src="![](https://github-readme-stats.vercel.app/api?username=LuisCarvalhoS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
         src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisCarvalhoS&theme=highcontrast"
         alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=LuisCarvalhoS&theme=highcontrast&hide_border=false"
       />
     </td>
   </tr>
