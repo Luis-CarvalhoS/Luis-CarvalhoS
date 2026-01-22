@@ -1,6 +1,6 @@
 # Luis Carvalho
 
-**`FullStack Dev`**
+**`Full Stack Developer | Salesforce Developer | Financial & Cloud Integrations`**
 
 Improving as a software engineer.
 <br>
