@@ -54,24 +54,35 @@ Improving as a software engineer.
 ![OpenCode](https://img.shields.io/badge/OpenCode-1A1A1A?style=for-the-badge&logo=opencode&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<br>
+<br>
 
 ### ⚙️ GitHub Analytics
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisCarvalhoS&theme=highcontrast"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-<br>
 
-<br>
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisCarvalhoS&theme=github_dark"
+    alt="Luis Carvalho GitHub Profile Details"
+  />
+</p>
 
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisCarvalhoS&theme=github_dark"
+    alt="Top Languages by Repository"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisCarvalhoS&theme=github_dark"
+    alt="Top Languages by Commit"
+  />
+</p>
 
-
-![profile view](https://komarev.com/ghpvc/?username=LuisCarvalhoS&color=9370DB&style=flat)
-
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=LuisCarvalhoS&label=Profile%20views&color=00A1E0&style=for-the-badge"
+    alt="Profile views"
+  />
+</p>
