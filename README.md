@@ -66,7 +66,8 @@ Improving as a software engineer.
     alt="Luis Carvalho GitHub Profile Details"
   />
 </p>
-
+<br>
+<br>
 <p align="center">
   <img
     width="49%"
@@ -79,6 +80,7 @@ Improving as a software engineer.
     alt="Top Languages by Commit"
   />
 </p>
+<br>
 
 <p align="center">
   <img
