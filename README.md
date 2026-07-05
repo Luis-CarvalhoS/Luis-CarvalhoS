@@ -1,14 +1,18 @@
 # Luis Carvalho
 
-**`Full Stack Developer | Salesforce Developer | Financial & Cloud Integrations | AI`**
+**`Full Stack Developer | Salesforce Developer | AI`**
+
+<br>
 
 Improving as a software engineer.
 <br>
 <br>
 
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEUUSERNAME/](https://www.linkedin.com/in/luis-felipecs)) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luiscarvalhosoft@gmail.com)
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipecs)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:luiscarvalhosoft@gmail.com)
 <br>
 <br>
 
