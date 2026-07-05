@@ -9,7 +9,7 @@ Improving as a software engineer.
 <br>
 
 
-### Connect with Me
+### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipecs)
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:luiscarvalhosoft@gmail.com)
