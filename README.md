@@ -16,7 +16,6 @@ Improving as a software engineer.
 <br>
 <br>
 
-### 🧰 Languages and Tools
 
 ### 🧰 Languages and Tools
 
