@@ -2,9 +2,13 @@
 
 **`Full Stack Developer | Salesforce Developer | AI`**
 
+
+### Improving as a software engineer.
 <br>
 
-Improving as a software engineer.
+### 🧩 Projects & Websites
+
+[![Tech Jobs](https://img.shields.io/badge/Tech%20Jobs-Explore%20platform-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://www.techjobs.space)
 <br>
 <br>
 
